@@ -4,7 +4,7 @@ spring:
   application:
     name: web
   thymeleaf:
-    prefix: classpath:/templateshtml/
+    prefix: classpath:/templates/
     check-template: true
     suffix: .html
     encoding: UTF-8

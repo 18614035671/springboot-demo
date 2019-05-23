@@ -1,7 +1,7 @@
-package org.mapper;
+package com.example.mapper;
 
 import org.apache.ibatis.annotations.Param;
-import org.model.User;
+import com.example.model.User;
 import org.springframework.stereotype.Repository;
 
 @Repository
